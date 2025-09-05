@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-public class Calculadora{
-    public static void main ( String args[]){
-        System.out.println("Givanildo");
-
-        import java.util.Scanner;
-
 public class CalculadoraBasica {
     
     public static void main(String[] args) {
@@ -91,8 +85,5 @@ public class CalculadoraBasica {
     
     public static double dividir(double a, double b) {
         return a / b;
-    }
-}
-
     }
 }
